@@ -58,6 +58,6 @@ signed main()
     {
         cout<<"NO "<<dis[y]<<endl;
     }
-
+// test
     return 0;
 }
